@@ -28,10 +28,13 @@ body{
     text-decoration: none;
     margin-bottom: 1em;
  }
- .botao_secundario{
+ .botao__secundario{
     background: transparent;
     border: 2px solid var(--branco-principal);
  }
  .container_imagem{
     margin: 1em 0 2em 0
+ }
+ .container__caixa{
+    margin: 0 6em;
  }
